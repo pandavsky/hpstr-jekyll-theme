@@ -1,17 +1,18 @@
-title:            Site Title
-description:      Describe your website here.
+title:            BHA3 Documentation Site by Mayumi Sakai
+description:      BioHack Academy 3 blog
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url:http://pandavsky.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Mayumi Sakai
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
+  bio:            "This is the BioHack Academy documentation site of Mayumi Sakai.
+My background is in musicology, interacrion design, and fermented food."
   email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
