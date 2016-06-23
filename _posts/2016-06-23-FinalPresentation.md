@@ -36,6 +36,11 @@ I started to think possibilities to store the sake songs to the sake yeast. The 
 * 	類似酵母のDNAを音楽に戻す
 
 
+---------------------------------------
+
+
+
+
 ### 1. Encoding music to DNA sequence / 音楽をDNA塩基配列に変換する
 
 I tried some different ways to encode music to DNA sequence. Finally, I decided to encode music (sake song) to DNA sequence based on amino acid molecular weight. 
@@ -68,6 +73,7 @@ It is possible to transfer music DNA sequence to yeast without affecting biologi
 もしくは、組換えを起こさないまま、遊離（プラスミド）の状態でもたせることも可能。
 
 
+---------------------------------------
 
 
 
@@ -86,6 +92,7 @@ The yeast, which has similar DNA sequences, is found.
 
 
 Then, A music is encoded from similar yeast DNA.
+類似酵母のDNAを音楽に変換した
 
 <figure>
 <img src="/images/BHA_Mayumi_Presentation_en.010.jpeg" alt="" style="border:1px solid #333333">
@@ -94,7 +101,10 @@ Then, A music is encoded from similar yeast DNA.
 
 **Encoded DNA music file will be available here soon.../　変換したDNAの音楽は近日中にアップします。
 
-</br></br>
+
+---------------------------------------
+
+
 
 ### 3.	How does yeast recognize the sound? / 酵母は音を認識するか否か？
 
