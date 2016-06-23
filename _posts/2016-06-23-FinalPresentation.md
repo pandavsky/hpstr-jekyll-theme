@@ -92,9 +92,9 @@ Then, A music is encoded from similar yeast DNA.
 <img src="/images/BHA_Mayumi_Presentation_en.011.jpeg" alt="" style="border:1px solid #333333">
 </figure>
 
-**Encoded DNA music file will be available here soon...
+**Encoded DNA music file will be available here soon.../　変換したDNAの音楽は近日中にアップします。
 
-
+</br></br>
 
 ### 3.	How does yeast recognize the sound? / 酵母は音を認識するか否か？
 
