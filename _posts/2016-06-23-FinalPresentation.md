@@ -54,9 +54,9 @@ A specific amino acid corresponds with a DNA codon, which is a sequence of three
 * １つのアミノ酸には複数のコドン（）が割り当てられているため、同じアミノ酸が繰り返し使用された場合に、常に異なるコドンを選択するというルールを作りました。
 
 <figure>
-<img src="/images/BHA_Mayumi_Presentation_en.004.jpeg" alt="" style="border:1px #333333">
-<img src="/images/BHA_Mayumi_Presentation_en.005.jpeg" alt="" style="border:1px #333333">
-<img src="/images/BHA_Mayumi_Presentation_en.006.jpeg" alt="" style="border:1px #333333">
+<img src="/images/BHA_Mayumi_Presentation_en.004.jpeg" alt="" style="border:1px solid #333333">
+<img src="/images/BHA_Mayumi_Presentation_en.005.jpeg" alt="" style="border:1px solid #333333">
+<img src="/images/BHA_Mayumi_Presentation_en.006.jpeg" alt="" style="border:1px solid #333333">
 </figure>
 
 
@@ -104,9 +104,9 @@ While exploring the ways to encode music to DNA, a new question is provoked. ”
 1.  Encoding sake song to DNA sequence based on amino acid molecular weight. 
 2.  Making three sound proof boxes, and placing a petri dish with cultured yeast into each box. Then observing 
     how yeasts grow within different sound environments; 
-        * (Box1) No sound. 
-        * (Box2) Playing a sake song. 
-        * (Box3) Searching yeast, which has similar DNA to sake song DNA. Then playing a song, which is composed from similar yeast DNA.
+        *  (Box1) No sound. 
+        *  (Box2) Playing a sake song. 
+        *  (Box3) Searching yeast, which has similar DNA to sake song DNA. Then playing a song, which is composed from similar yeast DNA.
 
 
 「音楽DNAを持つ酵母」をテーマに音楽をDNA塩基配列に変換し、酵母に保存する方法を探った。その過程でもう一つの疑問が生まれた。「酵母は音をどのように認識するのか？」音楽から変換したDNAを使用し、実験を通して酵母と音の関係を探る。
