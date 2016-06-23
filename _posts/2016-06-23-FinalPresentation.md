@@ -75,7 +75,9 @@ It is possible to transfer music DNA sequence to yeast without affecting biologi
 
 
 Searching yeast, which has similar DNA to music (sake song) DNA through the DNA database (BLAST). 
-Similar DNA sequences are found. 
+The yeast, which has similar DNA sequences, is found. 
+
+音楽DNAと類似のDNAをもつ酵母をデータベースから検索。類似の配列をもつ酵母が見つかった。
 
 <figure>
 <img src="/images/BHA_Mayumi_Presentation_en.008.jpeg" alt="">
@@ -91,6 +93,7 @@ Then, A music is encoded from similar yeast DNA.
 </figure>
 
 **Encoded DNA music file will be available here soon...
+
 
 
 ### 3.	How does yeast recognize the sound? / 酵母は音を認識するか否か？
@@ -116,7 +119,7 @@ Procedure:
       *（箱３）音楽DNAと類似のDNAをもつ酵母をデータベースから検索。類似酵母のDNAを音楽に変換し、再生。
 
 <figure>
-<img src="/images/BHA_Mayumi_Presentation_en.012" alt="">
+<img src="/images/BHA_Mayumi_Presentation_en.012.jpg" alt="">
 </figure>
 
 
