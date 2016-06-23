@@ -22,17 +22,9 @@ In 17th century, Sake brewers sang these songs to check a long process of brewin
 - [Traditional sake song 1]
 <iframe width="560" height="315" src="//www.youtube.com/embed/le4eRY3imvQ" frameborder="0"></iframe>
 
-```html
-<iframe width="560" height="315" src="//www.youtube.com/embed/le4eRY3imvQ" frameborder="0"></iframe>
-```
 
 - [Traditional sake song 2]
 <iframe width="560" height="315" src="//www.youtube.com/embed/EvL-sPA3Gws" frameborder="0"></iframe>
-
-
-```html
-<iframe width="560" height="315" src="//www.youtube.com/embed/EvL-sPA3Gws" frameborder="0"></iframe>
-```
 
 
 #### Objectives

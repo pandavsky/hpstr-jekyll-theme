@@ -13,8 +13,3 @@ This track is included in the album **"The First of the Microbe Hunters"**. The 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/ayiEDI_RKR4" frameborder="0"></iframe>
 
-
-
-```html
-<iframe width="560" height="315" src="//www.youtube.com/embed/ayiEDI_RKR4" frameborder="0"></iframe>
-```
