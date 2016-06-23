@@ -24,7 +24,7 @@ I started to think possibilities to store the sake songs to the sake yeast. The 
 
 
 ### Challenges:
-1.	Encoding music to DNA sequence
+1.  Encoding music to DNA sequence
 2.	Encoding DNA sequence to Music
     * 	Searching yeast, which has similar DNA to music DNA.
     * 	Encoding similar yeast DNA to Music
@@ -42,7 +42,7 @@ I tried some different ways to encode music to DNA sequence. Finally, I decided 
 The twenty amino acids are mapped to a musical scale (pitch) and duration. Two amino acids are assigned to each note. 
 A specific amino acid corresponds with a DNA codon, which is a sequence of three DNA nucleotides (T, C, A and/or G). So that music is encoded to DNA sequence.
 
-＊Multiple DNA codons corresponds with a amino acid. If same amino acid is assigned to pitch/duration once, different DNA codon will be assigned. So that DNA codon is always changing (to avoid erroneous DNA sequence).
+* Multiple DNA codons corresponds with a amino acid. If same amino acid is assigned to pitch/duration once, different DNA codon will be assigned. So that DNA codon is always changing (to avoid erroneous DNA sequence).
 
 
 音楽をDNA塩基配列に変換する方法を探った。いろいろ変換方法を試し、最終的にタンパク質を構成するアミノ酸の分子量を元に、音楽をDNA塩基配列に変換した。
@@ -51,12 +51,12 @@ A specific amino acid corresponds with a DNA codon, which is a sequence of three
 
 一つのアミノ酸は３つの塩基（A,T,C,Gのうちのどれか三つ　コドン/トリプレットと呼ばれるもの）で構成されている。
 
-＊１つのアミノ酸には複数のコドン（）が割り当てられているため、同じアミノ酸が繰り返し使用された場合に、常に異なるコドンを選択するというルールを作りました。
+*１つのアミノ酸には複数のコドン（）が割り当てられているため、同じアミノ酸が繰り返し使用された場合に、常に異なるコドンを選択するというルールを作りました。
 
 <figure>
-<img src="/images/BHA_Mayumi_Presentation_en.004.jpeg" alt="">
-<img src="/images/BHA_Mayumi_Presentation_en.005.jpeg" alt="">
-<img src="/images/BHA_Mayumi_Presentation_en.006.jpeg" alt="">
+<img src="/images/BHA_Mayumi_Presentation_en.004.jpeg" alt="" style="border:1px #333333">
+<img src="/images/BHA_Mayumi_Presentation_en.005.jpeg" alt="" style="border:1px #333333">
+<img src="/images/BHA_Mayumi_Presentation_en.006.jpeg" alt="" style="border:1px #333333">
 </figure>
 
 
@@ -80,16 +80,16 @@ The yeast, which has similar DNA sequences, is found.
 音楽DNAと類似のDNAをもつ酵母をデータベースから検索。類似の配列をもつ酵母が見つかった。
 
 <figure>
-<img src="/images/BHA_Mayumi_Presentation_en.008.jpeg" alt="">
-<img src="/images/BHA_Mayumi_Presentation_en.009.jpeg" alt="">
+<img src="/images/BHA_Mayumi_Presentation_en.008.jpeg" alt="" style="border:1px #333333">
+<img src="/images/BHA_Mayumi_Presentation_en.009.jpeg" alt="" style="border:1px #333333">
 </figure>
 
 
 Then, A music is encoded from similar yeast DNA.
 
 <figure>
-<img src="/images/BHA_Mayumi_Presentation_en.010.jpeg" alt="">
-<img src="/images/BHA_Mayumi_Presentation_en.011.jpeg" alt="">
+<img src="/images/BHA_Mayumi_Presentation_en.010.jpeg" alt="" style="border:1px #333333">
+<img src="/images/BHA_Mayumi_Presentation_en.011.jpeg" alt="" style="border:1px #333333">
 </figure>
 
 **Encoded DNA music file will be available here soon...
@@ -101,8 +101,8 @@ Then, A music is encoded from similar yeast DNA.
 While exploring the ways to encode music to DNA, a new question is provoked. ”How does yeast recognize the sound?” To find out this, an experiment is conducted based on the encoded sake song DNA.
 
 Procedure: 
-1. Encoding sake song to DNA sequence based on amino acid molecular weight. 
-2. Making three sound proof boxes, and placing a petri dish with cultured yeast into each box. Then observing 
+1.  Encoding sake song to DNA sequence based on amino acid molecular weight. 
+2.  Making three sound proof boxes, and placing a petri dish with cultured yeast into each box. Then observing 
     how yeasts grow within different sound environments; 
         *(Box1) No sound. 
         *(Box2) Playing a sake song. 
@@ -112,14 +112,14 @@ Procedure:
 「音楽DNAを持つ酵母」をテーマに音楽をDNA塩基配列に変換し、酵母に保存する方法を探った。その過程でもう一つの疑問が生まれた。「酵母は音をどのように認識するのか？」音楽から変換したDNAを使用し、実験を通して酵母と音の関係を探る。
 
 実験：
-1. タンパク質を構成するアミノ酸の分子量を元に、酒造り唄をDNA塩基配列に変換。
-2. 防音した箱を３つ作成。酵母を培養したシャーレをそれぞれの箱に入れ、異なる音環境で一定期間培養し、成長の違いを観察する。
+1.  タンパク質を構成するアミノ酸の分子量を元に、酒造り唄をDNA塩基配列に変換。
+1.  防音した箱を３つ作成。酵母を培養したシャーレをそれぞれの箱に入れ、異なる音環境で一定期間培養し、成長の違いを観察する。
       *（箱１）音無し
       *（箱２）酒造り唄を再生
       *（箱３）音楽DNAと類似のDNAをもつ酵母をデータベースから検索。類似酵母のDNAを音楽に変換し、再生。
 
 <figure>
-<img src="/images/BHA_Mayumi_Presentation_en.012.jpg" alt="">
+<img src="/images/BHA_Mayumi_Presentation_en.012.jpg" alt="" style="border:1px #333333">
 </figure>
 
 
