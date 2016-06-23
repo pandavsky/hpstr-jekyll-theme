@@ -3,7 +3,7 @@ layout: post
 title: "Personal Project - Final Presentation -"
 description: "Personal Project - Music and Yeast -"
 tags: [Personal Project, music and yeast, DNA]
-published: false
+published: true
 ---
 
 ## Music and Yeast / 音楽と酵母
@@ -74,92 +74,49 @@ It is possible to transfer music DNA sequence to yeast without affecting biologi
 ### 2.	Encoding DNA sequence to Music
 
 
+Searching yeast, which has similar DNA to music (sake song) DNA through the DNA database (BLAST). 
+Similar DNA sequences are found. 
 
-
-
-
-
-
-
-
-
-
-
-### Two Up
-
-Apply the `half` class like so to display two images side by side that share the same caption.
-
-```html
-<figure class="half">
-	<img src="/images/image-filename-1.jpg" alt="">
-	<img src="/images/image-filename-2.jpg" alt="">
-	<figcaption>Caption describing these two images.</figcaption>
-</figure>
-```
-
-And you'll get something that looks like this:
-
-<figure class="half">
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt=""></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt=""></a>
-	<img src="http://placehold.it/600x300.jpg" alt="">
-	<img src="http://placehold.it/600x300.jpg" alt="">
-	<figcaption>Two images.</figcaption>
+<figure>
+<img src="/images/BHA_Mayumi_Presentation_en.008.jpeg" alt="">
+<img src="/images/BHA_Mayumi_Presentation_en.009.jpeg" alt="">
 </figure>
 
-### Three Up
 
-Apply the `third` class like so to display three images side by side that share the same caption.
+Then, A music is encoded from similar yeast DNA.
 
-```html
-<figure class="third">
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt=""></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt=""></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt=""></a>
-	<figcaption>Caption describing these three images.</figcaption>
-</figure>
-```
-
-And you'll get something that looks like this:
-
-<figure class="third">
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt=""></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt=""></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt=""></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt=""></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt=""></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt=""></a>
-	<figcaption>Three images.</figcaption>
+<figure>
+<img src="/images/BHA_Mayumi_Presentation_en.010.jpeg" alt="">
+<img src="/images/BHA_Mayumi_Presentation_en.011.jpeg" alt="">
 </figure>
 
-### Alternative way
+**Encoded DNA music file will be available here soon...
 
-Another way to achieve the same result is to include `gallery` Liquid template. In this case you
-don't have to write any HTML tags – just copy a small block of code, adjust the parameters (see below)
-and fill the block with any number of links to images. You can mix relative and external links.
 
-Here is the block you might want to use:
+### 3.	How does yeast recognize the sound? / 酵母は音を認識するか否か？
 
-```liquid
-{% raw %}{% capture images %}
-	/images/abstract-10.jpg
-	/images/abstract-11.jpg
-	http://upload.wikimedia.org/wikipedia/en/2/24/Lenna.png
-{% endcapture %}
-{% include gallery images=images caption="Test images" cols=3 %}{% endraw %}
-```
+While exploring the ways to encode music to DNA, a new question is provoked. ”How does yeast recognize the sound?” To find out this, an experiment is conducted based on the encoded sake song DNA.
 
-Parameters:
+Procedure: 
+1. Encoding sake song to DNA sequence based on amino acid molecular weight. 
+2. Making three sound proof boxes, and placing a petri dish with cultured yeast into each box. Then observing 
+    how yeasts grow within different sound environments; 
+        *(Box1) No sound. 
+        *(Box2) Playing a sake song. 
+        *(Box3) Searching yeast, which has similar DNA to sake song DNA. Then playing a song, which is composed from similar yeast DNA.
 
-- `caption`: Sets the caption under the gallery (see `figcaption` HTML tag above);
-- `cols`: Sets the number of columns of the gallery.
-Available values: [1..3].
 
-It will look something like this:
+「音楽DNAを持つ酵母」をテーマに音楽をDNA塩基配列に変換し、酵母に保存する方法を探った。その過程でもう一つの疑問が生まれた。「酵母は音をどのように認識するのか？」音楽から変換したDNAを使用し、実験を通して酵母と音の関係を探る。
 
-{% capture images %}
-	/images/abstract-10.jpg
-	/images/abstract-11.jpg
-	http://upload.wikimedia.org/wikipedia/en/2/24/Lenna.png
-{% endcapture %}
-{% include gallery images=images caption="Test images" cols=3 %}
+実験：
+1. タンパク質を構成するアミノ酸の分子量を元に、酒造り唄をDNA塩基配列に変換。
+2. 防音した箱を３つ作成。酵母を培養したシャーレをそれぞれの箱に入れ、異なる音環境で一定期間培養し、成長の違いを観察する。
+      *（箱１）音無し
+      *（箱２）酒造り唄を再生
+      *（箱３）音楽DNAと類似のDNAをもつ酵母をデータベースから検索。類似酵母のDNAを音楽に変換し、再生。
+
+<figure>
+<img src="/images/BHA_Mayumi_Presentation_en.012" alt="">
+</figure>
+
+
