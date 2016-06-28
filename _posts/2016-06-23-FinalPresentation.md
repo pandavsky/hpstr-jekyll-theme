@@ -8,6 +8,7 @@ published: true
 
 ## Music and Yeast / 音楽と酵母
 　This personal project was presented and exhibited at the BHA3 graduation show at FabCafe MTRL in Shibuya, during the week of June 4 - 11, 2016. 
+
  このパーソナルプロジェクトは2016年6月4日〜11日の間、渋谷のFabCafe MTRLで行われたBHA3 graduation showで発表、展示されたものです。
 
 ### Background / プロジェクトの背景
