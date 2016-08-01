@@ -1,5 +1,6 @@
 ---
 layout: post
+share: false
 title: "The First of the Microbe Hunters"
 description: "The First of the Microbe Hunters"
 tags: [The First of the Microbe Hunters, video]
