@@ -1,5 +1,6 @@
 ---
 layout: post
+share: false
 title: "Personal Project"
 description: "Personal Project"
 tags: [Personal Project, video]
