@@ -1,5 +1,6 @@
 ---
 layout: page
+share: false
 title: About 
 image:
   feature: abstract-5.jpg
