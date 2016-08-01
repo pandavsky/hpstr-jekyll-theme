@@ -1,9 +1,11 @@
 ---
 layout: post
+share: false
 title: "Personal Project - Final Presentation -"
 description: "Personal Project - Music and Yeast -"
 tags: [Personal Project, music and yeast, DNA]
 published: true
+
 ---
 
 ## Music and Yeast / 音楽と酵母
